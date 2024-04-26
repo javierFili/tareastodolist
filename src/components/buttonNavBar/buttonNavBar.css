@@ -1,0 +1,16 @@
+.buttonNavBar {
+  width: 6em;
+  height: 2.5em;
+  color: #e3fef7;
+  border-radius: 9px;
+  background-color: black;
+}
+.buttonNavBar:active {
+  color: black;
+  background-color: #e3fef7;
+}
+
+.buttonNavBar:hover {
+  color: #e3fef7;
+  background-color: rgb(66, 65, 65);
+}
